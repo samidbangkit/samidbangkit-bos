@@ -1,2 +1,0 @@
-# samidbangkit-bos
-samidbangkit
